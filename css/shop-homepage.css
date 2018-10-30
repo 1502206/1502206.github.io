@@ -1,0 +1,92 @@
+/*!
+ * Start Bootstrap - Shop Homepage (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+body {
+    padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+
+.column-left{float: left; width: 33%; 
+margin-top: 20px; 
+margin-bottom: 30px; }
+
+.column-right{ float: right; width: 33%; 
+margin-top: 20px; 
+margin-bottom: 30px; }
+.column-center{ display: inline-block; width: 33%; 
+margin-top: 20px; 
+margin-bottom: 30px; 
+}
+
+.blog{
+margin-left: 10px;
+margin-top: 10px; 
+margin-bottom: 30px; 
+}
+
+.slide-image {
+    width: 100%;
+}
+
+.carousel-holder {
+    margin-bottom: 30px;
+}
+
+.carousel-control,
+.item {
+    border-radius: 4px;
+}
+
+.cash {
+    text-align: center;
+	padding: 30px;
+
+}
+
+.login {
+    text-align: center;
+	padding: 30px;
+
+}
+
+.messages {
+    text-align: center;
+	padding: 30px;
+
+}
+
+
+.caption {
+    height: 130px;
+    overflow: hidden;
+}
+
+.caption h4 {
+    white-space: nowrap;
+}
+
+.thumbnail img {
+    width: 100%;
+}
+
+.thumbnail {
+    padding: 0;
+}
+
+.thumbnail .caption-full {
+    padding: 9px;
+    color: #333;
+}
+
+.blog-footer {
+  margin: 100px;
+  padding: 40px ;
+  color: #999;
+  text-align: center;
+  border-top: 1px solid #e5e5e5;
+}
+.blog-footer p:last-child {
+  margin-bottom: 20;
+}
